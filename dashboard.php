@@ -51,5 +51,4 @@ $applications = $stmt->fetchAll();
         <p>У вас нет заявок. <a href="add_application.php">Создать</a></p>
     <?php endif; ?>
 </div>
-
 <?php include 'footer.php'; ?>
